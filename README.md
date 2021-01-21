@@ -1,6 +1,6 @@
 # Welcome!
 
-This is (as you could tell by the name) a Netflix clone build using React.
+This is (as you could tell by the name) a Netflix clone built using React.
 
 There is not much to say the page is basically the front page of netflix.
 
